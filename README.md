@@ -18,7 +18,7 @@ Sistema simples feito em PHP com MySQL, HTML5, CSS3 e JavaScript.
 - Edição e exclusão de registros
 - Persistência com banco de dados MySQL
 
-📁 [Ver código do projeto](https://github.com/wallace-2105/corretores)
+📁 [Ver código do projeto] "C:\xampp\htdocs\projeto_corretores01"
 
 ---
 
